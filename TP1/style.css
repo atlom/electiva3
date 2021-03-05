@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+  }
+
+  html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+.sideDiv{
+    width: 20%;
+    background-color: #c5ddfc;
+    float: left;
+    padding: 15px;
+    font-size: 0.8em;
+    margin: auto;
+    color: #9B9B9B;
+    height: 100vw
+}
+
+.infoDiv{
+    padding-left: 35px;
+}
+
+.contentDiv{
+    width: 80%;
+    float: left;
+    padding: 15px;
+    font-size: 0.9em;
+}
+
+.contacto{
+    width: 100px;
+    height: 100px;
+}
+
+
+
